@@ -23,6 +23,7 @@ Controls:
 
 Organisms:
   Animals:
+  
   'A' - Antelope (strength 4, initiative 4) -> moves two times every round, when fighting has 50% chance to avoid the fight
   'L' - Fox (strength 3, initiative 7) -> avoids the fight with stronger opponent
   '^' - Human (strength 5, initiative 4) -> [player]
