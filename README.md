@@ -1,6 +1,6 @@
 # Simple-world-simulation
 
-For better view open directly README.md
+For better view open directly README
 
 Simple world simulation that includes a few animal and plant spicies, breeding and fighting. 
 There is not specific goal or target, it's just simulation.
